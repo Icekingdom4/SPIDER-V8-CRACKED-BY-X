@@ -7,13 +7,13 @@
 */
 
 global.prefa = ['','!','.',',','ðŸ¤','ðŸ—¿']
-global.owner = ['2348120055226']
-global.ownMain = '2348120055226'
-global.NamaOwner = 'ð•¶ð–Žð–“ð–Œ ð•¾ð–†ð–’' //
+global.owner = ['2349095894070']
+global.ownMain = '2349095894070'
+global.NamaOwner = 'icekinG’' //
 global.sessionName = 'session'
 global.connect = true // 
-global.namabot = 'ð™Žð™‹ð™„ð˜¿ð™€ð™ - ð™‘7' //
-global.author = 'ð•¶ð–Žð–“ð–Œ ð•¾ð–†ð–’' //
+global.namabot = 'FROZEN SPIDER' //
+global.author = 'icekinG’' //
 global.packname = 'spider-v8' //
 global.url1 = 'https://whatsapp.com/channel/0029VamlYh41SWssaEvw4E2i' //
 global.url2 = 'https://whatsapp.com/channel/0029VamlYh41SWssaEvw4E2i' //
